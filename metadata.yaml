@@ -1,0 +1,43 @@
+_repo: Rasselas-Prince-of-Abyssinia_652
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 652/652-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: 'His chief amusement was to picture to himself that world which he had
+  never seen, to place himself in various conditions, to be entangled in imaginary
+  difficulties, and to be engaged in wild adventures... The other great book by the
+  man who wrote the dictionary: THis is Dr. Johnson''s beautiful, engaging, and ultimately
+  inspiring story of a royal brother and sister who escape the castle and, traveling
+  in disguise, search for a way to feel more useful to society. It leads to a years-long
+  adventure amongst poor people and rich men, great intellectuals and merchants, holy
+  men and ruthless warriors. It is an eye-opening experience that shakes the siblings
+  to their core and ultimately turns into the most sublimely wise and moving works
+  that Johnson ever wrote, not to mention a masterpiece of English literature.'
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethiopia -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Happiness -- Fiction'
+- !lcsh 'Princes -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Rasselas, Prince of Abyssinia
+url: http://www.gutenberg.org/ebooks/652
