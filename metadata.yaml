@@ -1,10 +1,8 @@
 _repo: Rasselas-Prince-of-Abyssinia_652
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 652/652-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 652-h/images/coverb.jpg
 creator:
   author:
     agent_name: Johnson, Samuel
@@ -23,6 +21,8 @@ description: 'His chief amusement was to picture to himself that world which he 
   men and ruthless warriors. It is an eye-opening experience that shakes the siblings
   to their core and ultimately turns into the most sublimely wise and moving works
   that Johnson ever wrote, not to mention a masterpiece of English literature.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/652#Rasselas-Prince-of-Abyssinia
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
